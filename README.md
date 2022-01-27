@@ -1,16 +1,14 @@
-### Hi there 👋
+ Hi there 👋
 
-<!--
-**Berkennou/Berkennou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 hello there!!
+ 
+ and I would like to share.
+ contact :
+- 🌱 I’m currently student at Paris-Saclay University in computer science.
+- 🔭 I live in Paris.
+- 👯 I’m passionate and interested in development. 
+- 🤔 I would like to share this.
+- 📫 Contact: brahim.berkennou@universite-paris-saclay.fr
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
